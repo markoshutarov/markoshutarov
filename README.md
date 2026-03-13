@@ -7,7 +7,7 @@ under the hood — backend concepts just click for me and I find them
 really fun to work with.
 
 ## 🎯 Goal
-Looking for a backend developer internship where I can apply my skills
+Looking for a backend developer internship/job where I can apply my skills
 and continue growing as a developer.
 
 ## 💡 Approach
@@ -56,7 +56,7 @@ A simple Todo REST API with full CRUD operations.
 поврзува — backend концептите ми се природни и навистина ми се допаѓа да работам со нив.
 
 ## 🎯 Цел
-Барам backend developer стаж каде можам да ги применам моите вештини
+Барам backend developer пракса/работа каде можам да ги применам моите вештини
 и да продолжам да растам како програмер.
 
 ## 💡 Пристап
@@ -67,7 +67,7 @@ A simple Todo REST API with full CRUD operations.
 
 ## 🛠️ Stack
 **Backend:**
-- Java 17, Spring Boot 3, Spring Security, JWT
+- Java, Spring Boot, Spring Security, JWT
 - PostgreSQL, JPA/Hibernate
 - REST API design
 
@@ -81,15 +81,14 @@ A simple Todo REST API with full CRUD operations.
 ### 🐟 [E-Feesh Aquarium Store](https://github.com/markoshutarov/e-feesh)
 REST API за онлајн продавница за аквариуми изградена со Spring Boot и PostgreSQL.
 - JWT автентикација и авторизација
-- Управување со производи со пагинација и филтрирање по категорија
-- Нарачување со валидација на залиха
-- Ракување со исклучоци и валидација на внес
+- Управување со производи и филтрирање по категорија
+- Нарачување со валидации
+- Ракување со exceptions и валидација на внес
 
 ### ✅ [Todo API](https://github.com/markoshutarov/todo-api)
 Едноставен Todo REST API со целосни CRUD операции.
 - JWT автентикација и авторизација
-- Todo-а специфични за корисник
-- Валидација на внес и ракување со исклучоци
+- Валидација на внес и exception handling
 
 ## 📫 Контакт
 - Email: markoshutarovv@email.com
